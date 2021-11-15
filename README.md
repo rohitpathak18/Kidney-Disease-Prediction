@@ -8,6 +8,9 @@
 
 [Download Description](https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease#)
 
+## Deployment
+[Click here](https://kidney-disease-prediction.herokuapp.com/)
+
 ## Technology Used
 
 - Python
